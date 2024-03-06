@@ -1,3 +1,4 @@
+import React from 'react'
 import Columns from '@/components/columns'
 
 export default function Home() {
